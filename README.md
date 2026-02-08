@@ -1,20 +1,42 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 👨‍💻 Abhinav Vats - Personal Portfolio
 
-# Run and deploy your AI Studio app
+![Portfolio Preview](public/preview.png) 
+> A high-performance, responsive personal portfolio website built to showcase my Full Stack development projects and competitive programming achievements.
 
-This contains everything you need to run your app locally.
+## 🚀 **Live Demo**
+👉 **[View Portfolio Live](https://abhinav-vats-portfolio.vercel.app/)**
 
-View your app in AI Studio: https://ai.studio/apps/drive/1U8V1hpzlYBM9NXNGwzvJ47uB29Ti1lWe
+---
 
-## Run Locally
+## 🛠️ **Tech Stack**
+- **Frontend:** React.js, Tailwind CSS
+- **Build Tool:** Vite (for ultra-fast performance)
+- **Animations:** Framer Motion / CSS3
+- **Deployment:** Vercel
 
-**Prerequisites:**  Node.js
+## ✨ **Features**
+- **Dark Mode / Cyberpunk Theme:** Designed for a modern, developer-centric look.
+- **Fully Responsive:** Optimized for Mobile, Tablet, and Desktop.
+- **Project Showcase:** Highlights my work in MERN Stack and Flutter.
+- **Live Coding Stats:** Direct links to my LeetCode (Knight) and Codeforces profiles.
+- **Contact Integration:** Simple, direct access to my socials.
 
+## 📦 **Installation & Setup**
+If you want to run this project locally:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. **Clone the repository:**
+  https://github.com/Abhinav771/Abhinav_Vats_Portfolio.git
+
+2. **Navigate to the project directory:**
+   ```cd Abhinav_Vats_Portfolio```
+
+3. **Install dependencies:**
+   ```npm install```
+
+4. **Start the development server:**
+   ```npm run dev```
+
+## 📬 **Contact Me**
+- **LinkedIn:** [Abhinav Vats](https://www.linkedin.com/in/abhinav-vats-8033b127a/)
+- **GitHub:** [Abhinav771](https://github.com/Abhinav771)
+- **Email:** [abhinavvats771@gmail.com](mailto:abhinavvats771@gmail.com)
